@@ -19,7 +19,7 @@ gemversion:     0.1.0
 title:          infochimps-labs.github.com
 
 keywords:       [ 'ironfan,chef,infochimps-labs,hadoop,gem,ruby,rails,code,hadoop,infochimps,infochimps.com,badass,coders' ]
-description:    code repos for Philip (flip) Kromer - @mrflip
+description:    code repos for Infochimps Labs - @infochimps
 header_files:
   - ironfan
   - wukong

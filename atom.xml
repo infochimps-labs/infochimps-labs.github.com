@@ -11,7 +11,7 @@ layout: nil
  <id>http://infochimps-labs.github.com/</id>
  <author>
    <name>infochimps-labs.github.com</name>
-   <email>message-mrflip@on.github.com</email>
+   <email>message-infochimps@on.github.com</email>
  </author>
 
  {% for post in site.posts %}
