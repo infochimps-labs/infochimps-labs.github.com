@@ -13,17 +13,16 @@ maruku:
 
 header_ref:     '/'    # .html for subdirs, / for main.
 
-gemuser:        mrflip
+gemuser:        infochimps-labs
 gemname:        
 gemversion:     0.1.0 
-title:          mrflip.github.com
+title:          infochimps-labs.github.com
 
-keywords:       [ 'mrflip,gem,ruby,rails,code,scraper,hadoop,infochimps,infochimps.org,badass,coder' ]
+keywords:       [ 'ironfan,chef,infochimps-labs,hadoop,gem,ruby,rails,code,hadoop,infochimps,infochimps.com,badass,coders' ]
 description:    code repos for Philip (flip) Kromer - @mrflip
 header_files:
+  - ironfan
   - wukong
-  - edamame
-  - monkeyshines
-  - wuclan
+
   
 credits:
