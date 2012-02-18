@@ -13,6 +13,6 @@ p. This is the home for infochimps open-source projects. Infochimps is a platfor
 h3. Some components of the Infinite Monkeywrench:
 
 * "ironfan:":ironfan/ **make your system diagram into iron law**
-* "wukong,":wukong/   **Hadoop made so easy** a chimpanzee can use it.
+* "wukong:":wukong/   **Hadoop made so easy** a chimpanzee can use it.
 
 {% include news.html %}
